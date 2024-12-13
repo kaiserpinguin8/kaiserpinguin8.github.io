@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>RingCentral Embeddable Phone</title>
+
+<script>
+  (function() {
+    var rcs = document.createElement("script");
+    rcs.src = "https://apps.ringcentral.com/integration/ringcentral-embeddable/2.2.0/adapter.js?clientId=eme64bI1p4zbBSFzCFjyDS;
+    var rcs0 = document.getElementsByTagName("script")[0];
+    rcs0.parentNode.insertBefore(rcs, rcs0);
+  })();
+</script>
+  
+</head>
+<body>
+
+<h1>RingCentral Embeddable Web Application</h1>
+<p>
+  <font size=+2> 
+  Es handelt sich um eine einfache Anwendung, die sich in jede HTML-Seite integrieren lässt. 
+  <br/> 
+  Melden Sie sich einfach an, und schon können Sie Anrufe tätigen und entgegennehmen!
+  </font>
+<br/> 
+<br/> 
+<img src="https://images.ctfassets.net/up8h5u10ttz3/4fvb08fyY4zZWBz30mZRhH/f27563dabbd7aed271ee5406fa84aae5/embeddable-hero-bg.png" alt="RingCentral Embeddable" height="615"> 
+</p>
+  <font size=+2> 
+  Mich anrufen:
+  <a href="tel:+494082211756">+49(0)40 82211756</a>
+  <br/>
+  </font>
+</p>
+
+</body>
+</html>
